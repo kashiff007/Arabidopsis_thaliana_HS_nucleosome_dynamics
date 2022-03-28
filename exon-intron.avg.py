@@ -2,7 +2,7 @@
 import GFFutils
 
 G = GFFutils.GFFDB('dm3.db')
-exon_len = []
+exon_len = [] 
 exon1 = []
 exon2 = []
 exon3 = []
